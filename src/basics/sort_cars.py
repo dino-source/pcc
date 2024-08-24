@@ -6,4 +6,3 @@ print(f"After  sorting: {cars}")
 
 cars.sort(reverse=True)
 print(f"After  reverse: {cars}")
-

@@ -24,4 +24,3 @@ print(max_value_in_list_of_cubes)
 
 sum_of_digits_from_1_to_10 = sum(list(range(1, 11)))
 print(sum_of_digits_from_1_to_10)
-

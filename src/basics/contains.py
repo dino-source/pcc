@@ -12,4 +12,3 @@ print(f"{car.title()} is in the list: {cars.__contains__(car)}")
 
 car = "opel"
 print(f"{car.title()} is in the list: {cars.__contains__(car)}")
-
